@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @algoryogroup
-- 👀 I’m interested in data science and programmming
+- 👀 I’m interested in data science and programmming, please visit my blog at CoProgrammer.com
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on python
 - 📫 How to reach me agoryo.com@gmail.com
